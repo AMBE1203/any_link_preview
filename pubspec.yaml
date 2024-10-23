@@ -16,7 +16,7 @@ dependencies:
     sdk: flutter
   flutter_svg: ^2.0.10+1
   html: ^0.15.4
-  http: ^1.2.1
+  http: ^0.13.1
   shared_preferences: ^2.2.2
   string_validator: ^1.0.2
   url_launcher: ^6.2.5
